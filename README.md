@@ -1,4 +1,4 @@
-# Bug Report
+# [Bug Report](https://docs.google.com/spreadsheets/d/15NXNW3ShyLDQsEQWiHnoJzGHe4L9MxcZBMS2wjgMUmk/edit?usp=sharing)
 # WhatsApp Messenger Feature Testing Checklist
 
 ## Positive Testing Checklist 
