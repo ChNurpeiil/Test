@@ -1,4 +1,4 @@
-# Test
+# Bug Report
 # WhatsApp Messenger Feature Testing Checklist
 
 ## Positive Testing Checklist 
